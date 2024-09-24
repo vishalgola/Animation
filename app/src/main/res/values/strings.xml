@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aniamtion</string>
+    <string name="vishal_prajapati">Vishal Prajapati</string>
+    <string name="translet">Translet</string>
+    <string name="alpha">Alpha</string>
+    <string name="rotate">Rotate</string>
+    <string name="scale">Scale</string>
+</resources>
